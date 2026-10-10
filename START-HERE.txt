@@ -1,0 +1,7 @@
+REDLINE OUTDOOR & POWER WEBSITE — BRIGHT COLOUR EDITION
+
+1. Extract this ZIP file.
+2. Open index.html in a web browser.
+3. To edit business details, open site-config.js.
+4. To edit product names/categories/photos, open products.js.
+5. Read README.md for full instructions and free GitHub Pages publishing steps.
